@@ -1,5 +1,5 @@
 # GRUPITÖÖ - Prügi sorteerimine 
-20-22. oktoober 2023
+20-22. september 2023
 
 ## Projekti eesmärk
 Prügi sorteerimine 
