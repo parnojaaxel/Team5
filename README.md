@@ -21,3 +21,9 @@ Märt Pors, Jaanika Teearu, Martina Kommel
 ## Kommunikatsioon
 Suhtluskanalid: 
 **Slack**
+
+##Lingid
+Linear:
+https://linear.app/prugisorteerimine-team5/team/TEA/all
+Figma:
+https://www.figma.com/file/Q6uXdkcskBy85ZRxKi5xWD/Untitled?type=design&node-id=0-1&mode=design&t=dE1MR9R6BLqRwMmr-0
