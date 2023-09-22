@@ -36,3 +36,9 @@ https://www.figma.com/file/Q6uXdkcskBy85ZRxKi5xWD/Untitled?type=design&node-id=0
 ![IMG_20230921_085255](https://github.com/parnojaaxel/Team5/assets/144334389/39be5745-eeb3-49db-97f4-ada45834580e)
 ![IMG_20230921_085302](https://github.com/parnojaaxel/Team5/assets/144334389/67f28545-c716-4c25-a5dd-c706c0ab8587)
 ![IMG_20230921_095550](https://github.com/parnojaaxel/Team5/assets/144334389/9530cf04-af0b-4475-a8f4-a5caeb794c9b)
+
+
+
+## Meie tiimi wiki
+
+https://github.com/parnojaaxel/Team5/wiki
