@@ -2,7 +2,6 @@ var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 5,
     center: { lat: 58.26659964738753, lng: 22.536134881926614 } // ametikool
   });
-    // window.initMap = initMap;
   
   // add marker
   var marker1 = new google.maps.Marker({
@@ -16,3 +15,5 @@ var map = new google.maps.Map(document.getElementById('map'), {
     map: map,
     title: 'Marker 2'
   });
+
+window.initMap = initMap;

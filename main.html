@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Suggestive Search Bar</title>
+</head>
+<body>
+    <h1>Suggestive Search Bar</h1>
+    <input type="text" id="searchInput" placeholder="Search for products">
+    <ul id="suggestions"></ul>
+
+    <script>
+        const searchInput = document.getElementById("searchInput");
+        const suggestions = document.getElementById("suggestions");
+        const data = []; // Your array of data fetched from Google Sheets
+
+        // Function to update suggestions based on user input
+        function updateSuggestions() {
+            const query = searchInput.value.toLowerCase();
+            const matchingItems = data.filter(item => item.toLowerCase().includes(query));
+
+            // Clear previous suggestions
+            suggestions.innerHTML = "";
+
+            // Display matching suggestions
+            matchingItems.forEach(item => {
+                const li = document.createElement("li");
+                li.textContent = item;
+                suggestions.appendChild(li);
+            });
+        }
+
+        // Attach an event listener to the input field
+        searchInput.addEventListener("input", updateSuggestions);
+    </script>
+</body>
+</html>
